@@ -12,7 +12,7 @@ Power Bi for Transformation and Visualization
 # DATA TRANSFORMATION
 The csv file was imported into Microsoft Power Bi for proper cleaning and transformation 
 Unit Price, Revenue, Shipping fee were changed to Fixed Decimal Number
-* Year, Month and Day name of Order Date was transformed into new column
+<br> Year, Month and Day name of Order Date was transformed into new column
 ![Screenshot (9)](https://github.com/BayoMoh/SUPERMARKET-SALES-REPORT/assets/144594657/87782a8f-b9d0-407f-89bd-de3cd3d8a9cc)
 
 
