@@ -9,7 +9,7 @@ The data set contains the following tables; Order ID, Order Date, Customer ID, C
 ![Screenshot (8)](https://github.com/BayoMoh/SUPERMARKET-SALES-REPORT/assets/144594657/864b1315-a9fc-4bdc-a951-16ea511326f2)
 # TOOLS USED
 Ms Excel for proper formatting and cleaning
-Power Bi for Transformation and Visualization
+<br>Power Bi for Transformation and Visualization
 # DATA TRANSFORMATION
 The csv file was imported into Microsoft Power Bi for proper cleaning and transformation 
 Unit Price, Revenue, Shipping fee were changed to Fixed Decimal Number
