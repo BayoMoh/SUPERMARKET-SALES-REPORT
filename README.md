@@ -11,14 +11,19 @@ The data set contains the following tables; Order ID, Order Date, Customer ID, C
 Ms Excel for proper formatting and cleaning
 <br> Power Bi for Transformation and Visualization
 # DATA TRANSFORMATION
-The csv file was imported into Microsoft Power Bi for proper cleaning and transformation 
+• The csv file was imported into Microsoft Power Bi for proper cleaning and transformation 
 Unit Price, Revenue, Shipping fee were changed to Fixed Decimal Number
-<br> Year, Month and Day name of Order Date was transformed into new column
+<br> • Year, Month and Day name of Order Date was transformed into new column
 ![Screenshot (9)](https://github.com/BayoMoh/SUPERMARKET-SALES-REPORT/assets/144594657/87782a8f-b9d0-407f-89bd-de3cd3d8a9cc)
 
 # INSIGHTS AND FINDINGS
-Topmost selling category are ( Beverages, Sauces together with Jams and preserves) followed by the rest of the categories.   
+• Topmost selling category are ( Beverages, Sauces together with Jams and preserves) followed by the rest of the categories.   
 <br> The global consumption of beer, green tea and coffee made it easy for beverage to be the most ordered for category in the list, would suggest the company to stuck more of beverage proucts.
 ![categor scrc](https://github.com/BayoMoh/SUPERMARKET-SALES-REPORT/assets/144594657/14f090dd-7fd4-4987-b2ae-99a01b94ded7)
+
+• The most sales occured in the month of December, could it be because it's a festive month? 
+
+![Screenshot (10)](https://github.com/BayoMoh/SUPERMARKET-SALES-REPORT/assets/144594657/5523ae77-b3e1-4352-ab0c-5cd763ddbfcb)
+
 
 
