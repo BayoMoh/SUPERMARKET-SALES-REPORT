@@ -18,13 +18,21 @@ Unit Price, Revenue, Shipping fee were changed to Fixed Decimal Number
 
 # INSIGHTS AND FINDINGS
 • Topmost selling category are ( Beverages, Sauces together with Jams and preserves) followed by the rest of the categories.   
-<br> The global consumption of beer, green tea and coffee made it easy for beverage to be the most ordered for category in the list, would suggest the company to stuck more of beverage proucts.
+<br> The global consumption of beer, green tea and coffee made it easy for beverage to be the most ordered for category in the list.
 ![categor scrc](https://github.com/BayoMoh/SUPERMARKET-SALES-REPORT/assets/144594657/14f090dd-7fd4-4987-b2ae-99a01b94ded7)
 
-• The most sales occured in the month of December, could it be because it's a festive month? 
+• The most sales occured in the month of December with a total sum of $69k, could it be because it's a festive month? February is the month contributing the lowest sales in total with a sum of $22k
 
 ![Screenshot (10)](https://github.com/BayoMoh/SUPERMARKET-SALES-REPORT/assets/144594657/5523ae77-b3e1-4352-ab0c-5cd763ddbfcb)
 
+# CONCLUSIONS AND RECOMMENDATION
+• There should be more import of beverage products 
+• Sales promotion and discount should be considered in the month where the is low sales and not limited to festive period
+• Customers should be rewarded base on rank purchase
+• Jams, preserves should be considerd the demand in the Easter region
+
+# VISUALIZATION
+![sales dashboard_page-0001](https://github.com/BayoMoh/SUPERMARKET-SALES-REPORT/assets/144594657/6557cd0b-9e02-485a-8a33-d38fbffdaefa)
 
 
 
