@@ -20,3 +20,5 @@ Unit Price, Revenue, Shipping fee were changed to Fixed Decimal Number
 Topmost selling category are ( Beverages, Sauces together with Jams and preserves) followed by the rest of the categories.   
 <br> The global consumption of beer, green tea and coffee made it easy for beverage to be the most ordered for category in the list, would suggest the company to stuck more of beverage proucts.
 ![categor scrc](https://github.com/BayoMoh/SUPERMARKET-SALES-REPORT/assets/144594657/14f090dd-7fd4-4987-b2ae-99a01b94ded7)
+
+
