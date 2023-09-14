@@ -32,6 +32,7 @@ Unit Price, Revenue, Shipping fee were changed to Fixed Decimal Number
 • Jams, preserves should be considerd the demand in the Easter region
 
 # VISUALIZATION
+
 ![sales dashboard_page-0001](https://github.com/BayoMoh/SUPERMARKET-SALES-REPORT/assets/144594657/6557cd0b-9e02-485a-8a33-d38fbffdaefa)
 
 
